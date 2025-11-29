@@ -6,4 +6,7 @@ layout: default
 ---
 
 <!-- Homepage content: default layout (no automatic posts list) -->
-Welcome to my site — I'm happy to share my projects and posts here soon.
+Welcome, fellow site visitor. Also, that is my cat, Pancake, sending her greetings to you also!
+
+<!-- Cat photo (safe placeholder) -->
+![Pancake the Cat](https://placekitten.com/1200/600 "Pancake the cat")
