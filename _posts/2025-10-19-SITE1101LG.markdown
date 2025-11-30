@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "SITE1101 Project 1 @ ADAUni"
+date:   2025-10-19 14:50:00 +0400
+categories: projects
+permalink: /projects/SITE1101/LogicGates
+
+---
+This was my first project at ADA where me and my team builded 3 basic logic gates (AND,OR,NOT), and collaborated with other teams to build NAND and XOR.
+
+<!-- Three images for this project post (add your own images under assets/images/) -->
+<div class="image-row post-image-row">
+	<figure class="image-item">
+		<img src="{{ '/assets/images/Aliyyiakbar.jpg' | relative_url }}" alt="Project Image 1" />
+		<figcaption>Aliyyiakbar, our VERY smart teamleader</figcaption>
+	</figure>
+	<figure class="image-item">
+		<img src="{{ '/assets/images/XOR.jpg' | relative_url }}" alt="Project Image 3" />
+		<figcaption> little bit messy XOR</figcaption>
+	</figure>
+</div>
+
