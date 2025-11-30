@@ -6,3 +6,5 @@ Navigation:
 Homepage - name at header |
 github repo link - at projects page |
 socials - at footer
+
+chat with ai avaliable at chat.md
