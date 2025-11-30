@@ -1,5 +1,7 @@
 # GitHub Copilot Chat Log
-
+---
+render_with_liquid: false
+---
 **Participant:** aslkb
 <br>**Assistant:** GitHub Copilot
 
@@ -35,7 +37,8 @@
 - [Request 27](#request-27): why site is again have posts in main page and no codeacademy
 - [Request 28](#request-28): do safe option
 - [Request 29](#request-29): now, under the text in homepage i want put photo of my cat. Do the safest opt...
-- [Request 30](#request-30): what if i want to put my own image, not from internet
+- [Request 30](#request-30): what if i want to put my own image, not from internet
+
 - [Request 31](#request-31): @agent Continue: "Continue to iterate?"
 - [Request 32](#request-32): now link to youtube dont work
 - [Request 33](#request-33): now here i want put 3 images here in one row
@@ -8978,3 +8981,4 @@ Update `.github/copilot-instructions.md` for the user, then ask for feedback on 
 
 > *Response time: 2.49 seconds*
 > <br>*Model: auto*
+
